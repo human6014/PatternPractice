@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/CommandPattern.unity
+- path: Assets/Resources/FlyweightPattern/FlyweightPattern.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

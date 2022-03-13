@@ -324,6 +324,13 @@
 "Assets/Resources/CommandPattern/Player.cs"
 "Assets/Resources/FlyweightPattern/Terrain.cs"
 "Assets/Resources/FlyweightPattern/World.cs"
+"Assets/Resources/ObserverPattern/Enemy.cs"
+"Assets/Resources/ObserverPattern/Observer.cs"
+"Assets/Resources/ObserverPattern/Player.cs"
+"Assets/Resources/ObserverPattern/Subject.cs"
+"Assets/Resources/PrototypePattern/Manager.cs"
+"Assets/Resources/PrototypePattern/Monster.cs"
+"Assets/Resources/PrototypePattern/Spawner.cs"
 -langversion:8.0
 
 /deterministic

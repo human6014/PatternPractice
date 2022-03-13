@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Player : MonoBehaviour
 {
     Stack<Command> commands = new Stack<Command>();
@@ -37,6 +38,8 @@ public class Player : MonoBehaviour
         {
             Command command = commands.Pop();
             command.Undo();
-        }else Debug.LogWarning("Stack is Empty");
+        }
+        else Debug.LogWarning("Stack is Empty");
     }
 }
+

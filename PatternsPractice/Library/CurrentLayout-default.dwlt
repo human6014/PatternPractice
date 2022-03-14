@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1680
     height: 967
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 136
+  controlID: 135
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 48
+  controlID: 44
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 49
+  controlID: 45
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -465,36 +465,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/ObserverPattern
+    - Assets/Resources/SingletonPattern
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 76
   m_LastFolders:
-  - Assets/Resources/ObserverPattern
+  - Assets/Resources/SingletonPattern
   m_LastFoldersGridSize: 76
   m_LastProjectPath: "C:\\Users\\human\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\PatternPractice\\PatternsPractice"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5c520000
-    m_LastClickedID: 21084
-    m_ExpandedIDs: 000000003e52000040520000425200004452000000ca9a3b
+    m_SelectedIDs: cc520000
+    m_LastClickedID: 21196
+    m_ExpandedIDs: 00000000a4520000a6520000a8520000aa52000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Resources
+      m_OriginalName: Resources
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 21162
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_SearchString: 
@@ -508,7 +508,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003e520000405200004252000044520000
+    m_ExpandedIDs: 00000000a4520000a6520000a8520000aa520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -594,21 +594,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 30f8ffffc4f9fffffef9ffff4afaffff54fbffff
+      m_ExpandedIDs: d08dffff688ffffffc92ffff1495ffff8a9affff409cffff729cffff60a2ffff2aa3ffff68a3ffffa6a3ffffe0a3ffff1ea4ffff5ca4ffff8ea4ffff94a5ffffcea5ffff60abffffa6abffffe0abffff1eacffff5eacffff26afffff6eaffffffebfffff42c0ffff7ec0ffffcac0ffff58c9ffffa8d5ffff12d6ffff4cd6ffff96d6fffffad6ffffced7ffff46defffffedeffff26e0ffff14f8ffff54fbffff2c5b0000805e000018650000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Button
+        m_OriginalName: Button
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 25862
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -654,9 +654,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.37958688, y: -2.708641, z: -4.8640327}
+    m_Target: {x: 206.28535, y: 465.37985, z: -142.58466}
     speed: 2
-    m_Value: {x: 0.37958688, y: -2.708641, z: -4.8640327}
+    m_Value: {x: 206.28535, y: 465.37985, z: -142.58466}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -703,17 +703,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.50666064, y: -0.0007787882, z: 0.000457525, w: -0.8621409}
+    m_Target: {x: -0.058772996, y: -0.009885857, z: 0.00058378355, w: -0.99821854}
     speed: 2
-    m_Value: {x: -0.5066625, y: -0.000778791, z: 0.00045752665, w: -0.86214405}
+    m_Value: {x: -0.058773216, y: -0.009885894, z: 0.00058378576, w: -0.9982223}
   m_Size:
-    m_Target: 7.721783
+    m_Target: 196.2993
     speed: 2
-    m_Value: 7.721783
+    m_Value: 196.2993
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1.0005
     m_SpeedNormalized: 0.49999997
@@ -727,8 +727,8 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.50666064, y: -0.0007787882, z: 0.000457525, w: -0.8621409}
-  m_LastSceneViewOrtho: 0
+  m_LastSceneViewRotation: {x: -0.5735296, y: -0.0007390937, z: 0.00051928783, w: -0.8191815}
+  m_LastSceneViewOrtho: 1
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_SceneVisActive: 1

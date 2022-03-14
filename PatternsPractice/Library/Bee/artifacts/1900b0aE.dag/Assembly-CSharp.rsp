@@ -331,6 +331,9 @@
 "Assets/Resources/PrototypePattern/Manager.cs"
 "Assets/Resources/PrototypePattern/Monster.cs"
 "Assets/Resources/PrototypePattern/Spawner.cs"
+"Assets/Resources/SingletonPattern/Singleton.cs"
+"Assets/Resources/SingletonPattern/SingletonScene.cs"
+"Assets/Resources/SingletonPattern/UI.cs"
 -langversion:8.0
 
 /deterministic

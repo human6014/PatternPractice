@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class World : MonoBehaviour
 {
-    private const int MAPSIZEX = 30,
-                      MAPSIZEZ = 30;
+    private const int MAPSIZEX = 10,
+                      MAPSIZEZ = 10;
     public Material red, green, blue;
     private Terrain[,] terrains = new Terrain[MAPSIZEX, MAPSIZEZ];
     private Terrain redTerrain,

@@ -334,6 +334,9 @@
 "Assets/Resources/SingletonPattern/Singleton.cs"
 "Assets/Resources/SingletonPattern/SingletonScene.cs"
 "Assets/Resources/SingletonPattern/UI.cs"
+"Assets/Resources/StatePattern/Player.cs"
+"Assets/Resources/StatePattern/StateManager.cs"
+"Assets/Resources/StatePattern/StatePattern.cs"
 -langversion:8.0
 
 /deterministic

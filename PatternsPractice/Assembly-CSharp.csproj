@@ -60,20 +60,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Resources\ObserverPattern\Observer.cs" />
+    <Compile Include="Assets\Resources\SingletonPattern\Singleton.cs" />
     <Compile Include="Assets\Resources\CommandPattern\Command.cs" />
     <Compile Include="Assets\Resources\FlyweightPattern\Terrain.cs" />
     <Compile Include="Assets\Resources\PrototypePattern\Spawner.cs" />
     <Compile Include="Assets\Resources\PrototypePattern\Manager.cs" />
+    <Compile Include="Assets\Resources\SingletonPattern\UI.cs" />
     <Compile Include="Assets\Resources\CommandPattern\Enemy.cs" />
     <Compile Include="Assets\Resources\FlyweightPattern\World.cs" />
+    <Compile Include="Assets\Resources\SingletonPattern\SingletonScene.cs" />
     <Compile Include="Assets\Resources\ObserverPattern\Enemy.cs" />
     <Compile Include="Assets\Resources\CommandPattern\Player.cs" />
     <Compile Include="Assets\Resources\PrototypePattern\Monster.cs" />
     <Compile Include="Assets\Resources\ObserverPattern\Subject.cs" />
     <Compile Include="Assets\Resources\ObserverPattern\Player.cs" />
-    <Compile Include="Assets\Resources\SingletonPattern\Singleton.cs" />
-    <Compile Include="Assets\Resources\SingletonPattern\SingletonScene.cs" />
-    <Compile Include="Assets\Resources\SingletonPattern\UI.cs" />
+    <Compile Include="Assets\Resources\StatePattern\Player.cs" />
+    <Compile Include="Assets\Resources\StatePattern\StatePattern.cs" />
+    <Compile Include="Assets\Resources\StatePattern\StateManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

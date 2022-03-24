@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Resources/StatePattern/StatePattern.unity
+- path: Assets/Resources/ComponentPattern/ComponentPattern.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

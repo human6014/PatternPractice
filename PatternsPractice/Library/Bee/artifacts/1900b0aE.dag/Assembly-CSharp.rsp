@@ -322,6 +322,8 @@
 "Assets/Resources/CommandPattern/Command.cs"
 "Assets/Resources/CommandPattern/Enemy.cs"
 "Assets/Resources/CommandPattern/Player.cs"
+"Assets/Resources/ComponentPattern/Move.cs"
+"Assets/Resources/ComponentPattern/Rotate.cs"
 "Assets/Resources/FlyweightPattern/Terrain.cs"
 "Assets/Resources/FlyweightPattern/World.cs"
 "Assets/Resources/ObserverPattern/Enemy.cs"

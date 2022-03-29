@@ -64,12 +64,17 @@
     <Compile Include="Assets\Resources\CommandPattern\Command.cs" />
     <Compile Include="Assets\Resources\StatePattern\Player.cs" />
     <Compile Include="Assets\Resources\FlyweightPattern\Terrain.cs" />
+    <Compile Include="Assets\Resources\ComponentPattern\Rotate.cs" />
     <Compile Include="Assets\Resources\PrototypePattern\Spawner.cs" />
     <Compile Include="Assets\Resources\PrototypePattern\Manager.cs" />
     <Compile Include="Assets\Resources\SingletonPattern\UI.cs" />
     <Compile Include="Assets\Resources\CommandPattern\Enemy.cs" />
     <Compile Include="Assets\Resources\FlyweightPattern\World.cs" />
+    <Compile Include="Assets\Resources\ComponentPattern\Move.cs" />
+    <Compile Include="Assets\Resources\ObjectPooling\Character.cs" />
     <Compile Include="Assets\Resources\SingletonPattern\SingletonScene.cs" />
+    <Compile Include="Assets\Resources\ObjectPooling\Bullet.cs" />
+    <Compile Include="Assets\Resources\ObjectPooling\ObjectPool.cs" />
     <Compile Include="Assets\Resources\ObserverPattern\Enemy.cs" />
     <Compile Include="Assets\Resources\CommandPattern\Player.cs" />
     <Compile Include="Assets\Resources\StatePattern\StatePattern.cs" />
@@ -77,8 +82,6 @@
     <Compile Include="Assets\Resources\ObserverPattern\Subject.cs" />
     <Compile Include="Assets\Resources\ObserverPattern\Player.cs" />
     <Compile Include="Assets\Resources\StatePattern\StateManager.cs" />
-    <Compile Include="Assets\Resources\ComponentPattern\Move.cs" />
-    <Compile Include="Assets\Resources\ComponentPattern\Rotate.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

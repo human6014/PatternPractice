@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Resources/ObjectPooling/ObjectPooling.unity
+- path: Assets/Resources/SimpleFactoryPattern/SimpleFactoryPattern.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

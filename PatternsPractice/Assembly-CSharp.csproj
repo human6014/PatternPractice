@@ -82,6 +82,12 @@
     <Compile Include="Assets\Resources\ObserverPattern\Subject.cs" />
     <Compile Include="Assets\Resources\ObserverPattern\Player.cs" />
     <Compile Include="Assets\Resources\StatePattern\StateManager.cs" />
+    <Compile Include="Assets\Resources\SimpleFactoryPattern\Factory.cs" />
+    <Compile Include="Assets\Resources\SimpleFactoryPattern\Unit.cs" />
+    <Compile Include="Assets\Resources\SimpleFactoryPattern\FactoryUse.cs" />
+    <Compile Include="Assets\Resources\SimpleFactoryPattern\Marine.cs" />
+    <Compile Include="Assets\Resources\SimpleFactoryPattern\Medic.cs" />
+    <Compile Include="Assets\Resources\SimpleFactoryPattern\Firebat.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
